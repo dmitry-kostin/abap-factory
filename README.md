@@ -1,4 +1,5 @@
-abap-factory
+Abap abstract factory
+
 ============
 
-abap abstract factory
+Here is the sample code of abap abstract factory design pattern.

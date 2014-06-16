@@ -1,4 +1,4 @@
-Abap abstract factory
+#Abap abstract factory example
 
 ============
 
